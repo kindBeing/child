@@ -1,4 +1,4 @@
 @Library('parent-lib') _
 
-build("Hey")
+build.pipe "Hello world"
 println("Done with the child pipeline")
