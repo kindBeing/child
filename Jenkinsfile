@@ -1,7 +1,2 @@
-package jenkins.child
-
-libraries {
-    lib('parent')
-    build
-}
+library('parent')
 
