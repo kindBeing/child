@@ -1,4 +1,4 @@
 @Library('parent-lib') _
 
-build()
+build("Hey")
 println("Done with the child pipeline")
